@@ -1,0 +1,289 @@
+2025-10-28 15:24:53,422 - INFO - {'orderId': 7511615834, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ46c4f0aad642e429ff0f6', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761645293134}
+2025-10-28 15:29:04,033 - INFO -  Starting Basic Binance Futures Bot CLI
+2025-10-28 15:29:05,615 - INFO -  Fetched Futures account balance successfully.
+2025-10-28 15:29:06,238 - INFO -  BUY MARKET order placed successfully for BTCUSDT
+2025-10-28 15:29:06,239 - INFO - {'orderId': 7512146788, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJd17218386e28da166d882b', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761645545899}
+2025-10-28 15:29:29,442 - INFO -  Starting Basic Binance Futures Bot CLI
+2025-10-28 15:29:30,806 - INFO - Connected to Binance Futures Testnet successfully!
+2025-10-28 15:29:31,020 - INFO -  Fetched Futures account balance successfully.
+2025-10-28 15:29:31,239 - INFO -  BUY MARKET order placed successfully for BTCUSDT
+2025-10-28 15:29:31,239 - INFO - {'orderId': 7512189005, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJab8a3060a4fbb8963d96c7', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761645570958}
+2025-10-28 15:31:20,169 - INFO -  Starting Basic Binance Futures Bot CLI
+2025-10-28 15:31:21,953 - INFO - Connected to Binance Futures Testnet successfully!
+2025-10-28 15:31:22,157 - INFO -  Fetched Futures account balance successfully.
+2025-10-28 15:31:22,373 - ERROR - Error Binance API Exception: APIError(code=-4024): Limit price can't be lower than 108756.
+2025-10-28 15:31:44,538 - INFO -  Starting Basic Binance Futures Bot CLI
+2025-10-28 15:31:46,010 - INFO - Connected to Binance Futures Testnet successfully!
+2025-10-28 15:31:46,344 - INFO -  Fetched Futures account balance successfully.
+2025-10-28 15:31:46,623 - INFO -  SELL LIMIT order placed successfully for BTCUSDT
+2025-10-28 15:31:46,624 - INFO - {'orderId': 7512468534, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ6f8951b8f0174713d9c96', 'price': '109756.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761645706345}
+2025-10-28 16:03:29,745 - INFO -  Starting Basic Binance Futures Bot CLI
+2025-10-28 16:03:31,612 - INFO - Connected to Binance Futures Testnet successfully!
+2025-10-28 16:03:31,864 - INFO -  Fetched Futures account balance successfully.
+2025-10-28 16:03:32,172 - INFO -  SELL MARKET order placed successfully for BTCUSDT
+2025-10-28 16:03:32,172 - INFO - {'orderId': 7516456361, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ1769d281205c5b41eda854', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761647611889}
+2025-10-28 16:04:47,848 - INFO -  Starting Basic Binance Futures Bot CLI
+2025-10-28 16:04:50,377 - INFO - Connected to Binance Futures Testnet successfully!
+2025-10-28 16:04:50,538 - INFO -  Fetched Futures account balance successfully.
+2025-10-28 16:04:50,815 - ERROR - Error Binance API Exception: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-28 16:06:16,601 - INFO -  Starting Basic Binance Futures Bot CLI
+2025-10-28 16:06:18,148 - INFO - Connected to Binance Futures Testnet successfully!
+2025-10-28 16:06:18,355 - INFO -  Fetched Futures account balance successfully.
+2025-10-28 16:06:18,600 - INFO -  BUY LIMIT order placed successfully for BTCUSDT
+2025-10-28 16:06:18,601 - INFO - {'orderId': 7516804346, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJbd3b2be68a4d38b0f26fc', 'price': '50000.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761647778262}
+2025-10-28 16:51:18,404 - INFO - 🚀 Starting Basic Binance Futures Bot CLI
+2025-10-28 16:51:19,883 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 16:51:20,047 - INFO - 💰 Fetched Futures account balance successfully.
+2025-10-28 16:52:58,829 - INFO - 🚀 Starting Basic Binance Futures Bot CLI
+2025-10-28 16:53:00,600 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 16:53:00,797 - INFO - 💰 Fetched Futures account balance successfully.
+2025-10-28 16:53:01,311 - INFO - 📜 Retrieved open orders for BTCUSDT
+2025-10-28 16:54:07,470 - INFO - 🚀 Starting Basic Binance Futures Bot CLI
+2025-10-28 16:54:09,111 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 16:54:09,309 - INFO - 💰 Fetched Futures account balance successfully.
+2025-10-28 16:54:09,723 - INFO - 📊 Retrieved position information for BTCUSDT
+2025-10-28 16:55:21,442 - INFO - 🚀 Starting Basic Binance Futures Bot CLI
+2025-10-28 16:55:23,072 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 16:55:23,518 - INFO - 💰 Fetched Futures account balance successfully.
+2025-10-28 16:55:23,760 - INFO - ✅ BUY MARKET order placed successfully for BTCUSDT
+2025-10-28 16:55:23,761 - INFO - {'orderId': 7522941426, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ526986909f49636c4eb', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761650723439}
+2025-10-28 17:23:45,785 - INFO - 🚀 Starting Basic Binance Futures Bot CLI
+2025-10-28 17:23:47,380 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 17:23:47,573 - INFO - 💰 Fetched Futures account balance successfully.
+2025-10-28 17:23:47,881 - INFO - 🗑️ Order 7516804346 canceled successfully for BTCUSDT
+2025-10-28 17:26:04,707 - INFO - 🚀 Starting Basic Binance Futures Bot CLI
+2025-10-28 17:26:06,548 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 17:26:06,758 - INFO - 💰 Fetched Futures account balance successfully.
+2025-10-28 17:31:28,994 - INFO - 🚀 Starting Basic Binance Futures Bot CLI
+2025-10-28 17:31:30,325 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 17:31:30,571 - INFO - 💰 Fetched Futures account balance successfully.
+2025-10-28 17:31:31,076 - ERROR - ❌ Binance API Exception: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-28 17:31:46,291 - INFO - 🚀 Starting Basic Binance Futures Bot CLI
+2025-10-28 17:31:47,807 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 17:31:48,090 - INFO - 💰 Fetched Futures account balance successfully.
+2025-10-28 17:31:48,276 - INFO - ✅ SELL STOP_LIMIT order placed successfully for BTCUSDT
+2025-10-28 17:34:39,647 - INFO - 🚀 Starting Basic Binance Futures Bot CLI
+2025-10-28 17:34:42,940 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 17:34:43,146 - INFO - 💰 Fetched Futures account balance successfully.
+2025-10-28 17:34:43,153 - ERROR - ❌ Order placement failed: 'Client' object has no attribute 'futures_create_oco_order'
+2025-10-28 18:47:59,346 - INFO - ✅ Connected to Binance Spot Testnet successfully!
+2025-10-28 18:47:59,555 - ERROR - ❌ Failed to fetch balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-10-28 18:47:59,813 - ERROR - ❌ OCO order placement failed: APIError(code=-1102): Mandatory parameter 'aboveType' was not sent, was empty/null, or malformed.
+2025-10-28 18:48:20,913 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 18:48:21,105 - INFO - 💰 Balance fetched successfully.
+2025-10-28 18:48:21,110 - WARNING - ⚠️ OCO orders are only supported on Spot market.
+2025-10-28 19:28:24,277 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:28:25,811 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:28:32,906 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:28:33,139 - INFO - 💰 Balance fetched successfully.
+2025-10-28 19:56:05,724 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:56:06,764 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:56:11,696 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:56:19,658 - INFO - NumExpr defaulting to 12 threads.
+2025-10-28 19:56:31,227 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:56:36,418 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:56:52,927 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:56:57,335 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:57:06,800 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:57:11,420 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:57:20,057 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:57:33,632 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:57:36,198 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:57:39,802 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:57:45,674 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:57:46,113 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:58:00,212 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:58:09,546 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:58:21,614 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:58:28,426 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:58:35,688 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:58:40,101 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:58:48,999 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:59:12,120 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:59:13,662 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:59:35,675 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:59:36,513 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:59:46,254 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 19:59:51,404 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:04:28,648 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:04:35,030 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:04:35,567 - INFO - NumExpr defaulting to 12 threads.
+2025-10-28 21:04:55,076 - ERROR - ❌ Order placement failed (Binance API/Request Error): APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-10-28 21:05:05,171 - INFO - ✅ BUY MARKET order placed successfully for BTCUSDT. Order ID: 7554392098
+2025-10-28 21:05:17,657 - ERROR - ❌ Order placement failed (Binance API/Request Error): APIError(code=-4013): Price less than min price.
+2025-10-28 21:05:19,949 - ERROR - ❌ Order placement failed (Binance API/Request Error): APIError(code=-4013): Price less than min price.
+2025-10-28 21:05:38,120 - INFO - ✅ BUY LIMIT order placed successfully for BTCUSDT. Order ID: 7554462457
+2025-10-28 21:05:53,249 - INFO - ✅ Connected to Binance Spot Testnet successfully!
+2025-10-28 21:06:25,844 - ERROR - ❌ OCO order placement failed: APIError(code=-1102): Mandatory parameter 'aboveType' was not sent, was empty/null, or malformed.
+2025-10-28 21:06:55,010 - ERROR - ❌ Failed to cancel order 1: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-10-28 21:07:11,692 - ERROR - ❌ Failed to cancel order 20938293: HTTPSConnectionPool(host='testnet.binance.vision', port=443): Read timed out. (read timeout=10)
+2025-10-28 21:07:34,821 - ERROR - ❌ Failed to fetch open orders: HTTPSConnectionPool(host='testnet.binance.vision', port=443): Max retries exceeded with url: /api/v3/openOrders?recvWindow=10000&symbol=BTCUSDT&timestamp=1761665854816&signature=5ad8aa9f3ab60acc749ac58bc9532af1e578c7687630065c914eac680dd64fb3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001A1667325D0>: Failed to resolve 'testnet.binance.vision' ([Errno 11001] getaddrinfo failed)"))
+2025-10-28 21:10:53,121 - INFO - ✅ Connected to Binance Spot Testnet successfully!
+2025-10-28 21:11:14,040 - ERROR - ❌ Failed to fetch open orders: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-10-28 21:11:15,352 - ERROR - ❌ Failed to fetch open orders: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-10-28 21:11:17,865 - ERROR - ❌ Failed to fetch open orders: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-10-28 21:19:34,674 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:19:34,962 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:19:35,464 - INFO - ✅ BUY LIMIT order placed successfully for BTCUSDT
+2025-10-28 21:20:49,050 - INFO - ✅ Connected to Binance Spot Testnet successfully!
+2025-10-28 21:20:49,515 - ERROR - ❌ Failed to fetch balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-10-28 21:20:49,727 - ERROR - ❌ Order placement failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-10-28 21:23:00,418 - INFO - ✅ Connected to Binance Spot Testnet successfully!
+2025-10-28 21:23:00,732 - ERROR - ❌ Failed to fetch balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-10-28 21:23:00,984 - ERROR - ❌ Order placement failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-10-28 21:25:17,670 - INFO - ✅ Connected to Binance Spot Testnet successfully!
+2025-10-28 21:25:17,853 - ERROR - ❌ Failed to fetch balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-10-28 21:25:18,325 - ERROR - ❌ OCO order placement failed: APIError(code=-1102): Mandatory parameter 'aboveType' was not sent, was empty/null, or malformed.
+2025-10-28 21:29:43,762 - INFO - ✅ Connected to Binance Spot Testnet successfully!
+2025-10-28 21:29:43,910 - ERROR - ❌ Failed to fetch balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-10-28 21:29:44,156 - ERROR - ❌ Binance API Error: Invalid API-key, IP, or permissions for action.
+2025-10-28 21:33:50,486 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:33:51,312 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:33:51,520 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:33:51,521 - INFO - 📤 Placing MARKET BUY order for BTCUSDT
+2025-10-28 21:33:51,849 - INFO - ✅ Order placed successfully! Order ID: 7558081916
+2025-10-28 21:34:47,942 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:34:48,763 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:34:48,930 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:34:48,933 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:34:49,146 - ERROR - ❌ Binance API Error: 400 - Limit price can't be lower than 108857.84.
+2025-10-28 21:35:03,361 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:35:04,172 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:35:04,416 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:35:04,419 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:35:04,712 - ERROR - ❌ Binance API Error: 400 - Limit price can't be lower than 108907.16.
+2025-10-28 21:35:39,034 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:35:39,979 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:35:40,151 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:35:40,153 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:35:40,353 - ERROR - ❌ Binance API Error: 400 - Limit price can't be lower than 108926.06.
+2025-10-28 21:35:59,573 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:36:00,109 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:36:00,300 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:36:00,302 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:36:00,466 - INFO - ✅ Order placed successfully! Order ID: 7558349021
+2025-10-28 21:37:45,479 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:37:46,585 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:37:46,738 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:37:46,742 - INFO - 📤 Placing STOP_LIMIT BUY order for BTCUSDT
+2025-10-28 21:37:47,018 - ERROR - ❌ Binance API Error: 400 - Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-28 21:38:10,840 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:38:11,472 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:38:11,661 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:38:11,664 - INFO - 📤 Placing STOP_LIMIT BUY order for BTCUSDT
+2025-10-28 21:38:11,971 - ERROR - ❌ Binance API Error: 400 - Order would immediately trigger.
+2025-10-28 21:38:44,481 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:38:45,137 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:38:45,335 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:38:45,338 - INFO - 📤 Placing STOP_LIMIT BUY order for BTCUSDT
+2025-10-28 21:38:45,553 - ERROR - ❌ Binance API Error: 400 - Order would immediately trigger.
+2025-10-28 21:39:43,652 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:39:44,266 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:39:44,474 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:39:44,679 - INFO - 📜 Retrieved 5 open orders for BTCUSDT
+2025-10-28 21:39:44,838 - INFO - 📊 Retrieved 1 active positions
+2025-10-28 21:44:00,345 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:44:01,277 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:44:01,484 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:44:01,659 - INFO - 📊 Retrieved 1 active positions
+2025-10-28 21:45:24,610 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:45:25,360 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:45:25,655 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:45:25,660 - INFO - 📤 Placing MARKET BUY order for BTCUSDT
+2025-10-28 21:45:26,142 - INFO - ✅ Order placed successfully! Order ID: 7559515949
+2025-10-28 21:45:33,630 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:45:34,396 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:45:34,596 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:45:34,598 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:45:35,304 - ERROR - ❌ Binance API Error: 400 - Limit price can't be lower than 109045.54.
+2025-10-28 21:45:45,853 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:45:46,504 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:45:46,927 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:45:46,930 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:45:47,208 - ERROR - ❌ Binance API Error: 400 - Limit price can't be lower than 109038.44.
+2025-10-28 21:46:00,393 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:46:01,113 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:46:01,280 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:46:01,281 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:46:01,523 - ERROR - ❌ Binance API Error: 400 - Limit price can't be lower than 109063.33.
+2025-10-28 21:46:30,604 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:46:31,865 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:46:32,106 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:46:32,110 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:46:32,348 - ERROR - ❌ Binance API Error: 400 - Price greater than max price.
+2025-10-28 21:46:45,089 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:46:45,722 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:46:45,929 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:46:45,932 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:46:46,220 - ERROR - ❌ Binance API Error: 400 - Limit price can't be lower than 109056.22.
+2025-10-28 21:47:25,516 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:47:26,142 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:47:26,678 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:47:26,679 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:47:26,968 - INFO - ✅ Order placed successfully! Order ID: 7559774186
+2025-10-28 21:49:13,660 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:49:14,474 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:49:14,680 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:49:14,682 - INFO - 📤 Placing MARKET BUY order for BTCUSDT
+2025-10-28 21:49:14,885 - INFO - ✅ Order placed successfully! Order ID: 7560001758
+2025-10-28 21:49:49,034 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:49:49,630 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:49:49,850 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:49:49,852 - INFO - 📤 Placing MARKET SELL order for BTCUSDT
+2025-10-28 21:49:50,141 - INFO - ✅ Order placed successfully! Order ID: 7560069207
+2025-10-28 21:50:32,842 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:50:33,504 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:50:33,723 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:50:33,726 - INFO - 📤 Placing LIMIT BUY order for BTCUSDT
+2025-10-28 21:50:34,169 - ERROR - ❌ Binance API Error: 400 - Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-28 21:50:46,075 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:50:46,665 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:50:47,076 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:50:47,077 - INFO - 📤 Placing LIMIT BUY order for BTCUSDT
+2025-10-28 21:50:47,373 - INFO - ✅ Order placed successfully! Order ID: 7560194316
+2025-10-28 21:51:32,104 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:51:33,678 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:51:34,181 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:51:34,182 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:51:34,340 - ERROR - ❌ Binance API Error: 400 - Limit price can't be lower than 108959.66.
+2025-10-28 21:51:45,169 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:51:45,987 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:51:46,266 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:51:46,269 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:51:46,690 - ERROR - ❌ Binance API Error: 400 - Limit price can't be lower than 108992.08.
+2025-10-28 21:52:17,844 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:52:18,823 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:52:19,312 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:52:19,314 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 21:52:19,602 - INFO - ✅ Order placed successfully! Order ID: 7560396298
+2025-10-28 21:52:56,708 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:52:57,439 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:52:57,595 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:52:57,841 - INFO - 📜 Retrieved 8 open orders for BTCUSDT
+2025-10-28 21:53:35,796 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:53:36,781 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:53:37,240 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:53:37,508 - INFO - 📊 Retrieved 1 active positions
+2025-10-28 21:55:15,806 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 21:55:16,813 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 21:55:16,994 - INFO - 💰 Balance fetched successfully.
+2025-10-28 21:55:17,271 - INFO - 🗑️ Order 7550523130 canceled successfully
+2025-10-28 22:06:11,752 - INFO - 🔧 Using Binance Futures Testnet
+2025-10-28 22:06:12,565 - INFO - ✅ Connected to Binance Futures Testnet successfully!
+2025-10-28 22:06:19,250 - INFO - 💰 Balance fetched successfully.
+2025-10-28 22:06:34,778 - INFO - 💲 Current price for BTCUSDT: 115160.6
+2025-10-28 22:07:00,215 - INFO - 📤 Placing MARKET BUY order for BTCUSDT
+2025-10-28 22:07:00,712 - INFO - ✅ Order placed successfully! Order ID: 7562264244
+2025-10-28 22:07:17,779 - INFO - 📤 Placing MARKET SELL order for BTCUSDT
+2025-10-28 22:07:18,001 - INFO - ✅ Order placed successfully! Order ID: 7562301080
+2025-10-28 22:07:42,910 - INFO - 📤 Placing LIMIT BUY order for BTCUSDT
+2025-10-28 22:07:43,343 - INFO - ✅ Order placed successfully! Order ID: 7562356852
+2025-10-28 22:08:03,228 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 22:08:03,400 - ERROR - ❌ Binance API Error: 400 - Limit price can't be lower than 109399.18.
+2025-10-28 22:08:39,841 - INFO - 📤 Placing LIMIT SELL order for BTCUSDT
+2025-10-28 22:08:40,561 - INFO - ✅ Order placed successfully! Order ID: 7562481003
+2025-10-28 22:09:18,564 - ERROR - ❌ Validation Error: For BUY STOP orders, stop price (50000.0) must be ABOVE current market price (115183.40). Stop orders trigger when price RISES to your stop price.
+2025-10-28 22:09:54,813 - INFO - 📜 Retrieved 9 open orders for BTCUSDT
+2025-10-28 22:10:16,132 - ERROR - ❌ Failed to fetch positions: APIError(code=-1121): Invalid symbol.
+2025-10-28 22:10:46,959 - INFO - 📊 Retrieved 1 active positions
+2025-10-28 22:11:09,334 - INFO - 🗑️ Order 7527401576 canceled successfully
