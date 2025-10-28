@@ -26,6 +26,10 @@ https://testnet.binancefuture.com/en/futures/BTCUSDT
 
 Create API and Secret keys with Futures Trading enabled.
 
+Requirements
+pip install python-binance
+
+
 Run the bot interactively:
 
 python basic_binance_bot.py --api-key YOUR_API_KEY --api-secret YOUR_API_SECRET --interactive
